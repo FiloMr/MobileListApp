@@ -1,0 +1,7 @@
+<resources><string name="app_name">list</string>
+    <string-array name="items">
+        <item>bob</item>
+        <item>bill</item>
+        <item>bobek</item>
+    </string-array>
+</resources>
